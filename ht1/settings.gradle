@@ -1,0 +1,2 @@
+rootProject.name = 'ht1'
+include 'hw01-gradle'
